@@ -1,0 +1,1 @@
+An application to demo Eureka servers and Eureka clients
